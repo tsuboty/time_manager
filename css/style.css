@@ -1,0 +1,40 @@
+.container{
+	margin: 0 auto;
+	width:250px;
+	background-color:#eee;
+	margin-top:30px;
+
+}
+.container h1{
+	text-align: center;
+	border-bottom: 1px solid black;
+	margin-bottom: 30px;
+
+
+}
+
+#title{
+
+}
+
+
+.button_field{
+	/*background-color: blue;*/
+	padding:15px;
+	margin-top:45px;
+}
+
+.button{
+	width:100px;
+	height:100px;
+	background-repeat: none;
+	background-image: url("../img/start.png");
+	background-size: cover;
+	margin-right: 0;
+	margin-left:0;
+	margin: auto;
+}
+
+.button_field .timer{
+	border:none;
+}

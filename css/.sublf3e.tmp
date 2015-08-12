@@ -1,0 +1,16 @@
+.container{
+	margin: 0 auto;
+	width:150px;
+
+}
+.container h1{
+	text-align: center;
+}
+
+.button{
+	width:100px;
+	height:100px;
+	background-repeat: none;
+	background-image: url("../img/start.png");
+	background-size: cover;
+}
